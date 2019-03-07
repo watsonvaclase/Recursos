@@ -1,5 +1,7 @@
 # Otros Recursos
 
+Página de IBM Research para el TJBot: https://www.research.ibm.com/tjbot/
+
 Emulador Javascript para codificar y probar el TJBot en pantalla: 
 https://my-tjbot.mybluemix.net/
 
