@@ -1,7 +1,7 @@
 # Otros Recursos
 
 
-<img id="img1" src="Catalinita/Catalinita.png" width="150" height="186"> 
+<img id="img1" src="files/img/tj.png" width="100" height="100"> 
 
 Página de IBM Research para el TJBot: <a href="https://www.research.ibm.com/tjbot/"> https://www.research.ibm.com/tjbot/</a>
 
