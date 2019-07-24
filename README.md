@@ -1,5 +1,8 @@
 # Otros Recursos
 
+
+<img id="img1" src="Catalinita/Catalinita.png" width="150" height="186"> 
+
 Página de IBM Research para el TJBot: <a href="https://www.research.ibm.com/tjbot/"> https://www.research.ibm.com/tjbot/</a>
 
 Propuesta donde TJBot conversa, reconoce las cosas y las personas que ve frente a él, además de hacer gestos y brillar su led: https://github.com/tjbotcz/tjbotcz_lite
