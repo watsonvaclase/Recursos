@@ -13,7 +13,7 @@ Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capa
 
 
 ### TJBot avanzado: 
-<a href="https://github.com/tjbotcz/tjbotcz_lite">href="https://github.com/tjbotcz/tjbotcz_lite</a>
+<a href="https://github.com/tjbotcz/tjbotcz_lite">https://github.com/tjbotcz/tjbotcz_lite</a>
 
 Propuesta donde TJBot conversa, reconoce las cosas y las personas que ve frente a él, además de hacer gestos y brillar su led <br> 
  
@@ -23,7 +23,7 @@ Propuesta donde TJBot conversa, reconoce las cosas y las personas que ve frente 
 Emulador Javascript para codificar y probar el TJBot en pantalla 
 
 ### Cognitive Class: 
-<a href="https://cognitiveclass.ai/"><a href="https://cognitiveclass.ai/>https://cognitiveclass.ai</a>
+<a href="https://cognitiveclass.ai/">https://cognitiveclass.ai/>https://cognitiveclass.ai</a>
 
 Cursos gratuitos de Data Science, AI, Blockchain y Cloud Computing 
 
