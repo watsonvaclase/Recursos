@@ -4,6 +4,7 @@
 <img id="img1" src="files/img/tj.png" width="100" height="100"><br> <br><br>
 
 ### Machine Learning for Kids: 
+
 <a href="http://machinelearningforkids.co.uk/">http://machinelearningforkids.co.uk/</a>
 
 Esta herramienta ofrece una introducción al aprendizaje automático (Machine Learning) de la Inteligencia Artificial a través de ejercicios prácticos para entrenar estos sistemas. 
@@ -15,7 +16,7 @@ Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capa
 ### TJBot avanzado: 
 <a href="https://github.com/tjbotcz/tjbotcz_lite">https://github.com/tjbotcz/tjbotcz_lite</a>
 
-Propuesta donde TJBot conversa, reconoce las cosas y las personas que ve frente a él, además de hacer gestos y brillar su led <br> <br> 
+> Propuesta donde TJBot conversa, reconoce las cosas y las personas que ve frente a él, además de hacer gestos y brillar su led <br> <br> 
  
 ### Emulador Javascript para TJBot: 
 <a href="https://my-tjbot.mybluemix.net">https://my-tjbot.mybluemix.net/ </a>
