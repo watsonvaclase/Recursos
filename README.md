@@ -15,27 +15,27 @@ Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capa
 ### TJBot avanzado: 
 <a href="https://github.com/tjbotcz/tjbotcz_lite">https://github.com/tjbotcz/tjbotcz_lite</a>
 
-Propuesta donde TJBot conversa, reconoce las cosas y las personas que ve frente a él, además de hacer gestos y brillar su led <br> 
+Propuesta donde TJBot conversa, reconoce las cosas y las personas que ve frente a él, además de hacer gestos y brillar su led <br> <br> 
  
 ### Emulador Javascript para TJBot: 
 <a href="https://my-tjbot.mybluemix.net">https://my-tjbot.mybluemix.net/ </a>
 
-Emulador Javascript para codificar y probar el TJBot en pantalla 
+Emulador Javascript para codificar y probar el TJBot en pantalla <br> <br> 
 
 ### Cognitive Class: 
 <a href="https://cognitiveclass.ai/">https://cognitiveclass.ai/>https://cognitiveclass.ai</a>
 
-Cursos gratuitos de Data Science, AI, Blockchain y Cloud Computing 
+Cursos gratuitos de Data Science, AI, Blockchain y Cloud Computing <br> <br> 
 
 ### Activity Kits:
-<a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.com/ibm/responsibility/initiatives/activityki</a>
+<a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.com/ibm/responsibility/initiatives/activityki</a><br> <br> 
 
 Recursos para promover vocaciones y conocimientos Cientificos-Tecnológicos en Primaria y Secundaria
 
 ### TJBot Resarch:
 <a href="https://www.research.ibm.com/tjbot/"> https://www.research.ibm.com/tjbot/</a>
 
-Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial 
+Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial <br> <br> 
 
 
 
