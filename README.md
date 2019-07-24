@@ -1,7 +1,7 @@
 # Otros Recursos
 
 
-<a href="https://www.watsonvaaclase.es/"<img id="img1" src="files/img/tj.png" width="100" height="100"></a><br> <br><br>
+<a href="https://www.watsonvaaclase.es/"><img id="img1" src="files/img/tj.png" width="100" height="100"></a><br> <br><br>
 
 ### Machine Learning for Kids: 
 
