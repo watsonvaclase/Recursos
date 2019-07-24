@@ -7,9 +7,9 @@
 
 <a href="http://machinelearningforkids.co.uk/">http://machinelearningforkids.co.uk/</a>
 
-Esta herramienta ofrece una introducción al aprendizaje automático (Machine Learning) de la Inteligencia Artificial a través de ejercicios prácticos para entrenar estos sistemas. 
+> Esta herramienta ofrece una introducción al aprendizaje automático (Machine Learning) de la Inteligencia Artificial a través de ejercicios prácticos para entrenar estos sistemas. 
 
-Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capaces de identificar texto, números o imágenes, complementando además conocimientos de programación mediante la agregación de modelos a *Scratch* (plataforma educativa de programación usada en todo el mundo), permitiendo a los niños crear sus proyectos y construir juegos con los modelos de aprendizaje automático que ellos mismos han entrenado.<br> <br> 
+> Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capaces de identificar texto, números o imágenes, complementando además conocimientos de programación mediante la agregación de modelos a *Scratch* (plataforma educativa de programación usada en todo el mundo), permitiendo a los niños crear sus proyectos y construir juegos con los modelos de aprendizaje automático que ellos mismos han entrenado.<br> <br> 
 
 
 
@@ -21,22 +21,22 @@ Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capa
 ### Emulador Javascript para TJBot: 
 <a href="https://my-tjbot.mybluemix.net">https://my-tjbot.mybluemix.net/ </a>
 
-Emulador Javascript para codificar y probar el TJBot en pantalla <br> <br> 
+> Emulador Javascript para codificar y probar el TJBot en pantalla <br> <br> 
 
 ### Cognitive Class: 
 <a href="https://cognitiveclass.ai/">https://cognitiveclass.ai/>https://cognitiveclass.ai</a>
 
-Cursos gratuitos de Data Science, AI, Blockchain y Cloud Computing <br> <br> 
+> Cursos gratuitos de Data Science, AI, Blockchain y Cloud Computing <br> <br> 
 
 ### Activity Kits:
 <a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.com/ibm/responsibility/initiatives/activityki</a><br> <br> 
 
-Recursos para promover vocaciones y conocimientos Cientificos-Tecnológicos en Primaria y Secundaria
+> Recursos para promover vocaciones y conocimientos Cientificos-Tecnológicos en Primaria y Secundaria
 
 ### TJBot Resarch:
 <a href="https://www.research.ibm.com/tjbot/"> https://www.research.ibm.com/tjbot/</a>
 
-Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial <br> <br> 
+> Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial <br> <br> 
 
 
 
