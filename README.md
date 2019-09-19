@@ -29,7 +29,7 @@
 > Cursos gratuitos de Data Science, AI, Blockchain y Cloud Computing <br> <br> 
 
 ### Activity Kits:
-<a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.com/ibm/responsibility/initiatives/activityki</a><br> <br> 
+<a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.org/activities</a><br><br> 
 
 > Recursos para promover vocaciones y conocimientos Cientificos-Tecnológicos en Primaria y Secundaria
 
