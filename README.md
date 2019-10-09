@@ -13,36 +13,42 @@
 > Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capaces de identificar texto, números o imágenes, complementando además conocimientos de programación mediante la agregación de modelos a *Scratch* (plataforma educativa de programación usada en todo el mundo), permitiendo a los niños crear sus proyectos y construir juegos con los modelos de aprendizaje automático que ellos mismos han entrenado.<br>    
 
 <br>
+
 ### TJBot avanzado: 
 <a href="https://github.com/tjbotcz/tjbotcz_lite">https://github.com/tjbotcz/tjbotcz_lite</a>
 
 > Propuesta donde TJBot conversa, reconoce las cosas y las personas que ve frente a él, además de hacer gestos y brillar su led <br>
 
 <br> 
+
 ### Emulador Javascript para TJBot: 
 <a href="https://my-tjbot.mybluemix.net">https://my-tjbot.mybluemix.net/ </a>
 
 > Emulador Javascript para codificar y probar el TJBot en pantalla <br>
 
 <br>
+
 ### Cognitive Class: 
 <a href="https://cognitiveclass.ai/">https://cognitiveclass.ai/>https://cognitiveclass.ai</a>
 
 > Cursos gratuitos de Data Science, AI, Blockchain y Cloud Computing <br>
 
 <br>
+
 ### Activity Kits:
 <a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.org/activities</a><br>
 
 > Recursos para promover vocaciones y conocimientos Cientificos-Tecnológicos en Primaria y Secundaria
 
 <br>
+
 ### TJBot Resarch:
 <a href="https://www.research.ibm.com/tjbot/"> https://www.research.ibm.com/tjbot/</a>
 
- > - Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial 
+ > Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial 
 
 <br>
+
 ### Videos sobre Inteligencia Artificial:
 
 - ¿Qué es la Inteligencia Artificial? Computer Hoy?:<a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube"> https://www.youtube.com/watch?v=XgDfv5cI2VI</a><br>
@@ -52,6 +58,7 @@
 - Conciencia, Robótica e Inteligencia Artificial: <a href="https://www.youtube.com/watch?v=P0iN1lDYnXM">https://www.youtube.com/watch?v=P0iN1lDYnXM</a><br>
 
 <br>
+
 ### Para saber más:
 
 - Cloud Computing: <a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube">https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube</a> <br>
