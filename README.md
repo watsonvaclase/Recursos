@@ -36,26 +36,26 @@
 ### TJBot Resarch:
 <a href="https://www.research.ibm.com/tjbot/"> https://www.research.ibm.com/tjbot/</a>
 
-> Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial 
+ Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial 
 
 ### Videos sobre Inteligencia Artificial:
 
->¿Qué es la Inteligencia Artificial? Computer Hoy?:<a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube"> https://www.youtube.com/watch?v=XgDfv5cI2VI</a><br>
+- ¿Qué es la Inteligencia Artificial? Computer Hoy?:<a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube"> https://www.youtube.com/watch?v=XgDfv5cI2VI</a><br>
 
->Inteligencia Artificial – IBM: <a href="https://www.youtube.com/watch?v=5rvZBsueMoc">https://www.youtube.com/watch?v=5rvZBsueMoc</a><br>
+- Inteligencia Artificial – IBM: <a href="https://www.youtube.com/watch?v=5rvZBsueMoc">https://www.youtube.com/watch?v=5rvZBsueMoc</a><br>
 
->Conciencia, Robótica e Inteligencia Artificial: <a href="https://www.youtube.com/watch?v=P0iN1lDYnXM">https://www.youtube.com/watch?v=P0iN1lDYnXM</a><br>
+- Conciencia, Robótica e Inteligencia Artificial: <a href="https://www.youtube.com/watch?v=P0iN1lDYnXM">https://www.youtube.com/watch?v=P0iN1lDYnXM</a><br>
 
 
 ### Para saber más:
 
-- Cloud Computing: <a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube">https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube</a> <br> <br> 
+- Cloud Computing: <a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube">https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube</a> <br>
  
-- IBM Watson: <a href="https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)">https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)</a> <br> <br>
+- IBM Watson: <a href="https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)">https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)</a> <br>
  
-- Inteligencia artificial:<a href="https://es.wikipedia.org/wiki/Inteligencia_artificial"> https://es.wikipedia.org/wiki/Inteligencia_artificial</a> <br> <br>
+- Inteligencia artificial:<a href="https://es.wikipedia.org/wiki/Inteligencia_artificial"> https://es.wikipedia.org/wiki/Inteligencia_artificial</a> <br>
  
-- Watson Academy:<a href="https://www.watson-academy.info"> https://www.watson-academy.info/</a> <br> <br>
+- Watson Academy:<a href="https://www.watson-academy.info"> https://www.watson-academy.info/</a> <br>
 
 
 
