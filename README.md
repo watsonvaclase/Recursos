@@ -49,13 +49,13 @@
 
 ### Para saber más:
 
-> Cloud Computing: <a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube">https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube</a><br>
+Cloud Computing: <a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube">https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube</a> <br> <br> 
  
-> IBM Watson: <a href="https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)">https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)</a><br>
+IBM Watson: <a href="https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)">https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)</a> <br> <br>
  
-> Inteligencia artificial:<a https://es.wikipedia.org/wiki/Inteligencia_artificial"> https://es.wikipedia.org/wiki/Inteligencia_artificial</a><br>
+Inteligencia artificial:<a https://es.wikipedia.org/wiki/Inteligencia_artificial"> https://es.wikipedia.org/wiki/Inteligencia_artificial</a> <br> <br>
  
-> Watson Academy:<a https://www.watson-academy.info"> https://www.watson-academy.info/</a><br>
+Watson Academy:<a https://www.watson-academy.info"> https://www.watson-academy.info/</a> <br> <br>
 
 
 
