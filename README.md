@@ -9,7 +9,7 @@
 
 > Esta herramienta ofrece una introducción al aprendizaje automático (Machine Learning) de la Inteligencia Artificial a través de ejercicios prácticos para entrenar estos sistemas. 
 
-> Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capaces de identificar texto, números o imágenes, complementando además conocimientos de programación mediante la agregación de modelos a *Scratch* (plataforma educativa de programación usada en todo el mundo), permitiendo a los niños crear sus proyectos y construir juegos con los modelos de aprendizaje automático que ellos mismos han entrenado.<br> <br> 
+> Consiste en un sencillo entorno de aprendizaje guiado para entrenar modelos capaces de identificar texto, números o imágenes, complementando además conocimientos de programación mediante la agregación de modelos a *Scratch* (plataforma educativa de programación usada en todo el mundo), permitiendo a los niños crear sus proyectos y construir juegos con los modelos de aprendizaje automático que ellos mismos han entrenado.<br>
 
 
 
@@ -36,7 +36,7 @@
 ### TJBot Resarch:
 <a href="https://www.research.ibm.com/tjbot/"> https://www.research.ibm.com/tjbot/</a>
 
-> Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial <br> <br> 
+> Página de IBM Research para el TJBot, donde nació y se desarrolló este proyecto educativo de Inteligencia Artificial 
 
 ### Videos sobre Inteligencia Artificial:
 
@@ -44,18 +44,18 @@
 
 >Inteligencia Artificial – IBM: <a href="https://www.youtube.com/watch?v=5rvZBsueMoc">https://www.youtube.com/watch?v=5rvZBsueMoc</a><br>
 
->Conciencia, Robótica e Inteligencia Artificial: <a https://www.youtube.com/watch?v=P0iN1lDYnXM">https://www.youtube.com/watch?v=P0iN1lDYnXM</a><br>
+>Conciencia, Robótica e Inteligencia Artificial: <a href="https://www.youtube.com/watch?v=P0iN1lDYnXM">https://www.youtube.com/watch?v=P0iN1lDYnXM</a><br>
 
 
 ### Para saber más:
 
-Cloud Computing: <a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube">https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube</a> <br> <br> 
+- Cloud Computing: <a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube">https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube</a> <br> <br> 
  
-IBM Watson: <a href="https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)">https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)</a> <br> <br>
+- IBM Watson: <a href="https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)">https://es.wikipedia.org/wiki/Watson_(inteligencia_artificial)</a> <br> <br>
  
-Inteligencia artificial:<a https://es.wikipedia.org/wiki/Inteligencia_artificial"> https://es.wikipedia.org/wiki/Inteligencia_artificial</a> <br> <br>
+- Inteligencia artificial:<a href="https://es.wikipedia.org/wiki/Inteligencia_artificial"> https://es.wikipedia.org/wiki/Inteligencia_artificial</a> <br> <br>
  
-Watson Academy:<a https://www.watson-academy.info"> https://www.watson-academy.info/</a> <br> <br>
+- Watson Academy:<a href="https://www.watson-academy.info"> https://www.watson-academy.info/</a> <br> <br>
 
 
 
