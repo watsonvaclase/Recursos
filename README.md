@@ -35,11 +35,11 @@
 
 
 ### Activity Kits:
-<a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.org/activities</a><br><br> 
+<a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.org/activities</a><br>
 
 > Recursos para promover vocaciones y conocimientos Cientificos-Tecnológicos en Primaria y Secundaria
 
-
+<br><br>
 
 ### TJBot Resarch:
 <a href="https://www.research.ibm.com/tjbot/"> https://www.research.ibm.com/tjbot/</a>
