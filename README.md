@@ -30,6 +30,8 @@
 
 ### Instalación DE Node-Red en diferentes dispositivos:
 <a href="https://nodered.org/docs/getting-started/">https://nodered.org/docs/getting-started/
+ 
+> Esta guía lo ayudará a instalar y ejecutar Node-RED en solo unos minutos, en local, Raspberry Pi, dispositivo Android....
 
 <br>
 
