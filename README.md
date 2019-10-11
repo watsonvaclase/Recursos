@@ -28,14 +28,16 @@
 
 <br>
 
-### Node-Red en Android: 
-<a href="https://nodered.org/docs/getting-started/android">https://nodered.org/docs/getting-started/android </a>
-
-> Para trabajar Node-Red en dispositivos Android <br>
+### Instalación Node-Red en diferentes dispositivos:
+<a href="https://nodered.org/docs/getting-started/">https://nodered.org/docs/getting-started/
 
 <a href="https://nodered.org/docs/getting-started/local">https://nodered.org/docs/getting-started/local </a>
 
 > Para instalar Node-Red en local<br>
+
+<a href="https://nodered.org/docs/getting-started/android">https://nodered.org/docs/getting-started/android </a>
+
+> Para trabajar Node-Red en dispositivos Android <br>
 
 <br>
 
