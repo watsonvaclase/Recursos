@@ -31,11 +31,11 @@
 ### Node-Red en Android: 
 <a href="https://nodered.org/docs/getting-started/android">https://nodered.org/docs/getting-started/android </a>
 
-> Para trabajar Node-Red en dispositivos Androi <br>
+> Para trabajar Node-Red en dispositivos Android <br>
 
 <a href="https://nodered.org/docs/getting-started/local">https://nodered.org/docs/getting-started/local </a>
 
-> Para trabajar Node-Red en dispositivos Androi <br>
+> Para instalar Node-Red en local<br>
 
 <br>
 
