@@ -56,10 +56,9 @@
 
 <br>
 
-### Videos sobre Inteligencia Artificial:
+### Video IBM sobre Inteligencia Artificial:
 
 > - Inteligencia Artificial – IBM: <a href="https://www.youtube.com/watch?v=5rvZBsueMoc">https://www.youtube.com/watch?v=5rvZBsueMoc</a><br>
-> - ¿Qué es la Inteligencia Artificial? Computer Hoy?:<a href="https://www.youtube.com/watch?v=XgDfv5cI2VI"> https://www.youtube.com/watch?v=XgDfv5cI2VI</a><br>
 
 <br>
 
