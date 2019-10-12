@@ -58,9 +58,9 @@
 
 ### Videos sobre Inteligencia Artificial:
 
-> - ¿Qué es la Inteligencia Artificial? Computer Hoy?:<a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube"> https://www.youtube.com/watch?v=XgDfv5cI2VI</a><br>
+> - ¿Qué es la Inteligencia Artificial? Computer Hoy?:<a href="https://www.youtube.com/watch?v=XgDfv5cI2VI"> https://www.youtube.com/watch?v=XgDfv5cI2VI</a><br>
 > - Inteligencia Artificial – IBM: <a href="https://www.youtube.com/watch?v=5rvZBsueMoc">https://www.youtube.com/watch?v=5rvZBsueMoc</a><br>
-> - Conciencia, Robótica e Inteligencia Artificial: <a href="https://www.youtube.com/watch?v=P0iN1lDYnXM">https://www.youtube.com/watch?v=P0iN1lDYnXM</a><br>
+
 
 <br>
 
