@@ -43,7 +43,7 @@
 <br>
 
 ### Activity Kits:
-<a href="https://www.ibm.com/ibm/responsibility/initiatives/activityki">https://www.ibm.org/activities</a><br>
+<a href="https://www.ibm.org/activities">https://www.ibm.org/activities</a><br>
 
 > Recursos para promover vocaciones y conocimientos Cientificos-Tecnológicos en Primaria y Secundaria
 
